@@ -1,5 +1,7 @@
 # camping_app_ui_1
 
+![Camping App UI](https://user-images.githubusercontent.com/16510597/84574453-b33acf00-add0-11ea-9d3e-fcf245e3dd12.jpg)
+
 A new Flutter project.
 
 ## Getting Started
