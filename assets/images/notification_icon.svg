@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="50" viewBox="0 0 51 50">
+  <g id="Group_119" data-name="Group 119" transform="translate(-268.235 -40)">
+    <rect id="Rectangle_27" data-name="Rectangle 27" width="51" height="50" transform="translate(268.235 40)" fill="none"/>
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M12.936,29.106a4.478,4.478,0,0,1-4.471-4.229H2.99a2.985,2.985,0,1,1,0-5.971c0-.019,0-5.911,0-5.971A9.953,9.953,0,0,1,9.453,3.612V3.48A3.484,3.484,0,0,1,15.374,1a10.373,10.373,0,0,0-1.382,1.433A1.493,1.493,0,0,0,11.444,3.48v1.6l-.719.208a7.994,7.994,0,0,0-5.749,7.649v5.97A1.992,1.992,0,0,1,2.986,20.9a.995.995,0,1,0,0,1.99H22.882a.995.995,0,1,0,0-1.99A2,2,0,0,1,20.9,19.053,10.425,10.425,0,0,0,23.628,19a2.986,2.986,0,0,1-.746,5.878H17.407A4.477,4.477,0,0,1,12.936,29.106Zm-2.475-4.229h0a2.488,2.488,0,0,0,4.951,0H10.461Z" transform="translate(281.235 50.294)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="7" cy="7" r="7" transform="translate(296.235 52)" fill="#f72585"/>
+  </g>
+</svg>
