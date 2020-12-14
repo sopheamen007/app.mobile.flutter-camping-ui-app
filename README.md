@@ -1,4 +1,7 @@
-# camping_app_ui_1
+# Camping App UI
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/S0fJj2Jz5iY)
 
 ![Camping App UI](https://user-images.githubusercontent.com/16510597/84574453-b33acf00-add0-11ea-9d3e-fcf245e3dd12.jpg)
 
